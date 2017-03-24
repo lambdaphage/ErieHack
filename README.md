@@ -1,3 +1,3 @@
 # ErieHack
 
-General Repository any project materials.
+General Repository for any project materials.
